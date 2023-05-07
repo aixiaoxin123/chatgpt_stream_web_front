@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'ai小新',
-      description: 'Star on <a href="https://github.com/sh139/chatgpt_steam_web_front" class="text-blue-500" target="_blank" >Github</a>',
+      description: 'Star on <a href="https://github.com/aixiaoxin/chatgpt_steam_web_front" class="text-blue-500" target="_blank" >Github</a>',
     },
   }
 }
