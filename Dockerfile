@@ -1,5 +1,5 @@
-# build front-end
-FROM node:lts-alpine AS frontend
+# build front image
+FROM node:lts-alpine
 
 RUN npm install pnpm -g
 
@@ -9,9 +9,7 @@ COPY . /app
 
 RUN pnpm install
 
-RUN pnpm run build
-
-
+RUN pnpm build
 
 EXPOSE 1002
 
