@@ -1,7 +1,7 @@
 ## chatgpt流式调用，前端实现打印机效果
 本项目为前端页面，需要和后端项目搭配使用，（本人公众号：AI小新）
 ![image](aixiaoxin.png)
-后端项目地址：https://github.com/aixioaxin/chatgpt_stream_web_service
+后端项目地址：https://github.com/aixiaoxin123/chatgpt_stream_web_service
 
 
 ## 前置要求
